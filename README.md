@@ -1,4 +1,4 @@
 # hello-world
 my first repository
-Hello earthman
+Hello earthmen
 I'm from the Jupiter
